@@ -227,8 +227,3 @@ renderTable(hasilFilter);
 }
 
 // Inisialisasi saat DOM selesai dimuat
-
-document.addEventListener("DOMContentLoaded", function () {
-    renderTable(dataMahasiswa);
-
-});
